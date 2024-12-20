@@ -6,3 +6,5 @@
 	b) git add .        OR git add <NAME_OF_FILE>
 	c) git commit -m "this is a desc. of change i've made"
 	d) git push
+
+############ currently on dev branch ###########
